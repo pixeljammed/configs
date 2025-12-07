@@ -16,8 +16,8 @@ def snatch(files):
         try:
             os.mkdir(game)
         except Exception as e:
-            #print(f"error making {game} folder: {e}")
-            pass #comment this too if u wanna add back the error message for no fucken reason luhmao
+            print(f"error making {game} folder: {e}")
+            pass
         configs = data["gameconfigs"][game]
         for config in configs:
             try:
