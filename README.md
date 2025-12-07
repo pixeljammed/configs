@@ -5,11 +5,11 @@
 </p>
 
 <h1 align="center">
-    pixeljam's autoexecs
+    pixeljam's configs
 </h1>
 
 <p align="center">
-    for source engine / valve games like cs2, tf2, l4d2, csgo, etc.
+    for video games
 </p>
 
 ---
@@ -18,8 +18,8 @@
 - sensible keybinds
 - opinionated yet based keys
 - cool stuff, not too boring
-- similar to default, but better
-- funny stuff included
+- always similar to default, but better
+- funny stuff included sometimes
 
 
 
@@ -29,14 +29,7 @@
 
 
 
-## about
-### description
-- autoexecs are f'ing awesome! they are the empitome of why valve games and the source engine are so beloved after all these years.
-- can your fortnite do *this?* `bind mwheeldown "incrementvar cl_viewmodelfovsurvivor 0 360 1"`
-
-
-
-## usage
+## VALVE GAMES ONLY - usage
 ### installing
 - Download the **autoexec.cfg** you wish to download for whatever game.
 - Place it in your `steamapps/common/app_name/game_name/cfg` folder.
